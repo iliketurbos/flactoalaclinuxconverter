@@ -23,7 +23,7 @@ Fedora/CentOS Stream: `sudo dnf install ffmpeg -y`
 
 In terminal, run `cd flactoalacconverter`, then `chmod +x ./FLACtoALAC.sh`
 
-### 4) Make the folders
+### 4) Make the 2 folders
 
 The folder names don't matter.
 
